@@ -2,7 +2,7 @@
 
 ## 2020
 
-|Publication|Title|Code|Citation|
+|Pub|Title|Code|Cite|
 |:---:|:---:|:---:|:---:|
 |TIP|Learning Spatial and Spatio-Temporal Pixel Aggregations for Image and Video Denoising|-|0|
 |TIP|[Deep Graph-Convolutional Image Denoising](https://arxiv.org/pdf/1907.08448.pdf)|-|10|
@@ -33,7 +33,7 @@
 
 ## 2019  
 
-|Publication|Title|Code|Citation|
+|Pub|Title|Code|Cite|
 |:---:|:---:|:---:|:---:|
 |TIP|[Optimal combination of image denoisers](https://arxiv.org/pdf/1711.06712.pdf)|-|2|
 |TIP|[High ISO JPEG Image Denoising by Deep Fusion of Collaborative and Convolutional Filtering](https://sci-hub.se/https://ieeexplore.ieee.org/abstract/document/8684332/)|-|0|
@@ -75,7 +75,7 @@
 
 ## 2018  
 
-|Publication|Title|Code|Citation|
+|Pub|Title|Code|Cite|
 |:---:|:---:|:---:|:---:|
 |TIP|Weighted Tensor Rank-1 Decomposition for Nonlocal Image Denoising|-|6|
 |TIP|Towards Optimal Denoising of Image Contrast|-|3|
@@ -113,7 +113,7 @@
 
 ## 2017  
 
-|Publication|Title|Code|Citation|
+|Publ|Title|Code|Cite|
 |:---:|:---:|:---:|:---:|
 |TIP|[Beyond a gaussian denoiser: Residual learning of deep cnn for image denoising](https://arxiv.org/pdf/1608.03981.pdf)|-|2142|
 |TIP|Improved Denoising via Poisson Mixture Modeling of Image Sensor Noise|-|14|
