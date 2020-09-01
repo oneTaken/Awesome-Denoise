@@ -4,6 +4,8 @@
 
 |Pub|Title|Code|Cite|
 |:---:|:---:|:---:|:---:|
+|TIP|Blind universal Bayesian image denoising with Gaus- sian noise level learning|-|8|
+|TIP|[Learning Deformable Kernels for Image and Video Denoising](https://arxiv.org/pdf/1904.06903.pdf)|-|6|
 |TIP|Learning Spatial and Spatio-Temporal Pixel Aggregations for Image and Video Denoising|-|0|
 |TIP|[Deep Graph-Convolutional Image Denoising](https://arxiv.org/pdf/1907.08448.pdf)|-|10|
 |TIP|[NLH : A Blind Pixel-level Non-local Method for Real-world Image Denoising](https://arxiv.org/pdf/1906.06834.pdf)|-|5|
@@ -29,6 +31,7 @@
 |ECCV|[Practical Deep Raw Image Denoising on Mobile Devices](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510001.pdf)|-|0|
 |ECCV|[Reconstructing the Noise Manifold for Image Denoising](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540596.pdf)|-|0|
 |NN|[Deep Learning on Image Denoising : An Overview](https://arxiv.org/pdf/1912.13171.pdf)|-|17|
+|WACV|[Identifying recurring patterns with deep neural networks for natural image denoising](http://openaccess.thecvf.com/content_WACV_2020/papers/Xia_Identifying_Recurring_Patterns_with_Deep_Neural_Networks_for_Natural_Image_WACV_2020_paper.pdf)|-|3|
 |Arxiv|[Low-light Image Restoration with Short- and Long-exposure Raw Pairs](https://arxiv.org/pdf/2007.00199.pdf)|-|0|
 
 ## 2019  
@@ -43,6 +46,7 @@
 |TIP|[Iterative Joint Image Demosaicking and Denoising Using a Residual Denoising Network](https://arxiv.org/pdf/1807.06403.pdf)|-|16|
 |TIP|Content-Adaptive Noise Estimation for Color Images with Cross-Channel Noise Modeling|-|0|
 |TPAMI|[Real-world Image Denoising with Deep Boosting](https://sci-hub.se/https://ieeexplore.ieee.org/abstract/document/8733117/)|[Tensorflow](https://github.com/ngchc/deepBoosting)|0|
+|JVCIR|Vst-net: Variance-stabilizing transformation inspired network for poisson denoising|[Matlab](https://github.com/yqx7150/VST-Net)|3|
 |NIPS|[Variational Denoising Network: Toward Blind Noise Modeling and Removal](https://papers.nips.cc/paper/8446-variational-denoising-network-toward-blind-noise-modeling-and-removal.pdf)|-|17|
 |NIPS|[High-Quality Self-Supervised Deep Image Denoising](http://papers.nips.cc/paper/8920-high-quality-self-supervised-deep-image-denoising.pdf)|-|19|
 |ICML|[Noise2Self: Blind Denoising by Self-Supervision](https://arxiv.org/pdf/1901.11365.pdf)|[Pytorch](https://github.com/czbiohub/noise2self)|65|
@@ -63,15 +67,19 @@
 |ICCV|[Real Image Denoising with Feature Attention](https://arxiv.org/pdf/1904.07396.pdf)|-|0|
 |CVPRW|[GRDN:Grouped Residual Dense Network for Real Image Denoising and GAN-based Real-world Noise Modeling](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Kim_GRDNGrouped_Residual_Dense_Network_for_Real_Image_Denoising_and_GAN-Based_CVPRW_2019_paper.pdf)|-|24|
 |CVPRW|[Deep iterative down-up CNN for image denoising](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Yu_Deep_Iterative_Down-Up_CNN_for_Image_Denoising_CVPRW_2019_paper.pdf)|-|18|
-|CVPRW|[Densely connected hierarchical network for image denoising]([Densely Connected Hierarchical Network for Image Denoising ](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Park_Densely_Connected_Hierarchical_Network_for_Image_Denoising_CVPRW_2019_paper.pdf))|-|16|
+|CVPRW|[Densely Connected Hierarchical Network for Image Denoising ](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Park_Densely_Connected_Hierarchical_Network_for_Image_Denoising_CVPRW_2019_paper.pdf)|-|16|
 |CVPRW|[ViDeNN: Deep Blind Video Denoising](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Claus_ViDeNN_Deep_Blind_Video_Denoising_CVPRW_2019_paper.pdf)|-|10|
 |CVPRW|[Real Photographs Denoising With Noise Domain Adaptation and Attentive Generative Adversarial Network](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Lin_Real_Photographs_Denoising_With_Noise_Domain_Adaptation_and_Attentive_Generative_CVPRW_2019_paper.pdf)|-|4|
 |CVPRW|[Learning Deep Image Priors for Blind Image Denoising](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Hou_Learning_Deep_Image_Priors_for_Blind_Image_Denoising_CVPRW_2019_paper.pdf)|-|2|
 |ICIP|[DVDNET: A FAST NETWORK FOR DEEP VIDEO DENOISING](https://arxiv.org/pdf/1906.11890.pdf)|[Pytorch](https://github.com/m-tassano/dvdnet)|5|
+|ICIP|[Multi-kernel prediction networks for denoising of burst images](https://arxiv.org/pdf/1902.05392.pdf)|-|4|
+|ICIP|A non-local cnn for video denoising|-|9|
 |AAAI|Adaptation Strategies for Applying AWGN-based Denoiser to Realistic Noise|-|3|
 |arxiv|[When AWGN-based Denoiser Meets Real Noises](https://arxiv.org/pdf/1904.03485.pdf)|[Pytorch](https://github.com/yzhouas/PD-Denoising-pytorch)|10|
+|arxiv|[Generating training data for denoising real rgb images via camera pipeline simulation](https://arxiv.org/pdf/1904.08825.pdf)|-|6|
 |arxiv|[Learning Deformable Kernels for Image and Video Denoising](https://arxiv.org/pdf/1904.06903.pdf)|-|6|
 |arxiv|[Multi-kernel prediction networks for denoising of burst images](https://arxiv.org/pdf/1902.05392.pdf)|-|4|
+|arxiv|[Gan2gan: Generative noise learning for blind image denoising with sin- gle noisy images](https://arxiv.org/pdf/1905.10488.pdf)|-|5|
 
 ## 2018  
 
@@ -89,6 +97,8 @@
 |TIP|[Class-aware fully convolutional Gaussian and Poisson denoising](https://arxiv.org/pdf/1808.06562.pdf)|[Tensorflow](https://github.com/TalRemez/deep_class_aware_denoising)|24|
 |TIP|[VIDOSAT: High-dimensional sparsifying transform learning for online video denoising](https://arxiv.org/pdf/1710.00947.pdf)|-|17|
 |TIP|[Effective and fast estimation for image sensor noise via constrained weighted least squares](https://www.researchgate.net/profile/Jiantao_Zhou/publication/323563338_Effective_and_Fast_Estimation_for_Image_Sensor_Noise_Via_Constrained_Weighted_Least_Squares/links/5acdcaa6a6fdcc87840afac1/Effective-and-Fast-Estimation-for-Image-Sensor-Noise-Via-Constrained-Weighted-Least-Squares.pdf)|-|10|
+|ToG|Denoising with kernel prediction and asymmetric loss functions|-|47|
+|TMM|Gradient prior-aided cnn denoiser with separable convolution-based optimization of feature dimension|-|9|
 |NIPS|[Training deep learning based denoisers without ground truth data](https://papers.nips.cc/paper/7587-training-deep-learning-based-denoisers-without-ground-truth-data.pdf)|-|27|
 |ICML|[Noise2Noise: Learning Image Restoration without Clean Data](https://arxiv.org/pdf/1803.04189.pdf)|-|256|
 |CVPR|[Burst denoising with kernel prediction networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Mildenhall_Burst_Denoising_With_CVPR_2018_paper.pdf)|-|90|
@@ -100,6 +110,7 @@
 |ECCV|[A trilateral weighted sparse coding scheme for real-world image denoising](http://openaccess.thecvf.com/content_ECCV_2018/papers/XU_JUN_A_Trilateral_Weighted_ECCV_2018_paper.pdf)|-|85|
 |ECCV|[Deep image demosaicking using a cascade of convolutional residual denoising networks](https://openaccess.thecvf.com/content_ECCV_2018/papers/Filippos_Kokkinos_Deep_Image_Demosaicking_ECCV_2018_paper.pdf)|-|31|
 |IJCAI|[Connecting image denoising and high-level vision tasks via deep learning](https://arxiv.org/pdf/1809.01826.pdf)|-|15|
+|JVCIR|[RENOIR–A dataset for real low-light image noise reduction](https://arxiv.org/pdf/1409.8230.pdf)|-|55|
 |TCI|[Convolutional neural networks for noniterative reconstruction of compressively sensed images](https://arxiv.org/pdf/1708.04669.pdf)|-|43|
 |ACCV|[Dn-resnet: Efficient deep residual network for image denoising](https://arxiv.org/pdf/1810.06766.pdf)|-|8|
 |ICIP|[Image Denoising for Image Retrieval by Cascading a Deep Quality Assessment Network](http://www.ee.iisc.ac.in/new/people/faculty/soma.biswas/Papers/biju_icip2018.pdf)|-|3|
@@ -117,7 +128,8 @@
 |:---:|:---:|:---:|:---:|
 |TIP|[Beyond a gaussian denoiser: Residual learning of deep cnn for image denoising](https://arxiv.org/pdf/1608.03981.pdf)|-|2142|
 |TIP|Improved Denoising via Poisson Mixture Modeling of Image Sensor Noise|-|14|
-|TIP|Reweighted Low-Rank Matrix Analysis with Structural Smoothness for Image Denoising|-|21
+|TIP|Reweighted Low-Rank Matrix Analysis with Structural Smoothness for Image Denoising|-|21|
+|TIP|Category-specific object image denoising|-|22|
 |TIP|[Affine Non-Local Means Image Denoising](https://repositori.upf.edu/bitstream/handle/10230/37095/ballester_trans26_affi.pdf?sequence=1&isAllowed=y)|-|23|
 |CVPR|[Image Denoising via CNNs: An Adversarial Approach](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Divakar_Image_Denoising_via_CVPR_2017_paper.pdf)|-|44|
 |CVPR|[Non-local color image denoising with convolutional neural networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lefkimmiatis_Non-Local_Color_Image_CVPR_2017_paper.pdf)|-|157|
@@ -141,9 +153,14 @@
 |2016|CVPR|[Deep Gaussian conditional random field network: A model-based deep network for discriminative denoising](https://openaccess.thecvf.com/content_cvpr_2016/papers/Vemulapalli_Deep_Gaussian_Conditional_CVPR_2016_paper.pdf)|-|50|
 |2016|CVPR|[From Noise Modeling to Blind Image Denoising](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_From_Noise_Modeling_CVPR_2016_paper.pdf)|-|43|
 |2016|CVPR|[A Holistic Approach to Cross-Channel Image Noise Modeling and its Application to Image Denoising](https://openaccess.thecvf.com/content_cvpr_2016/papers/Nam_A_Holistic_Approach_CVPR_2016_paper.pdf)|-|82|
+|2016|TIP|Patch-based video denoising with optical flow estimation|-|64|
+|2016|ToG|Deep joint demosaicking and denoising|-|199|
 |2016|ICASSP|Fast depth image denoising and enhancement using a deep convolutional network|-|39|
 |2015|TIP|Image-specific prior adaptation for denoising|-|15|
+|2015|IPOL|[The noise clinic: a blind image denoising algorithm](http://www.ipol.im/pub/art/2015/125/article_lr.pdf)|-|75|
 |2012|CVPR|[Image denoising: Can plain neural networks compete with BM3D?](https://hcburger.com/files/neuraldenoising.pdf)|-|890|
 |2008|TIP|[Practical Poissonian-Gaussian noise modeling and fitting for single-image raw-data](https://core.ac.uk/download/pdf/194121585.pdf)|[Matlab]()|539|
 |2007|TPAMI|[Automatic estimation and removal of noise from a single image]()|-|
+|2005|CVPR|[A non-local algorithm for image denoising](http://audio.rightmark.org/lukin/msu/NonLocal.pdf)|-|5958|
 |2019|Books|CMOS: Circuit Design, Layout, and Simulation: Forth Edition|-|4851|
+|2018|Books|Denoising of photographic images and video: fundamentals, open challenges and new trends|-|5|
