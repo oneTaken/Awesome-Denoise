@@ -32,6 +32,7 @@
 |ECCV|[Reconstructing the Noise Manifold for Image Denoising](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540596.pdf)|-|0|
 |NN|[Deep Learning on Image Denoising : An Overview](https://arxiv.org/pdf/1912.13171.pdf)|-|19|
 |WACV|[Identifying recurring patterns with deep neural networks for natural image denoising](http://openaccess.thecvf.com/content_WACV_2020/papers/Xia_Identifying_Recurring_Patterns_with_Deep_Neural_Networks_for_Natural_Image_WACV_2020_paper.pdf)|-|3|
+|ICASSP|[Attention Mechanism Enhanced Kernel Prediction Networks for Denoising of Burst Images](https://arxiv.org/pdf/1910.08313.pdf)|[Pytorch](https://github.com/z-bingo/Attention-Mechanism-Enhanced-KPN)|1|
 |Arxiv|[Low-light Image Restoration with Short- and Long-exposure Raw Pairs](https://arxiv.org/pdf/2007.00199.pdf)|-|0|
 
 ## 2019  
