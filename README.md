@@ -51,6 +51,7 @@
 |NIPS|[Variational Denoising Network: Toward Blind Noise Modeling and Removal](https://papers.nips.cc/paper/8446-variational-denoising-network-toward-blind-noise-modeling-and-removal.pdf)|-|20|
 |NIPS|[High-Quality Self-Supervised Deep Image Denoising](http://papers.nips.cc/paper/8920-high-quality-self-supervised-deep-image-denoising.pdf)|-|22|
 |ICML|[Noise2Self: Blind Denoising by Self-Supervision](https://arxiv.org/pdf/1901.11365.pdf)|[Pytorch](https://github.com/czbiohub/noise2self)|71|
+|ICML|[Plug-and-play methods provably converge with properly trained denoisers](https://arxiv.org/pdf/1905.05406.pdf)|-|34|
 |CVPR|[Unsupervised Domain Adaptation for ToF Data Denoising with Adversarial Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Agresti_Unsupervised_Domain_Adaptation_for_ToF_Data_Denoising_With_Adversarial_Learning_CVPR_2019_paper.pdf)|-|7|
 |CVPR|[Robust Subspace Clustering with Independent and Piecewise Identically Distributed Noise Modeling](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Robust_Subspace_Clustering_With_Independent_and_Piecewise_Identically_Distributed_Noise_CVPR_2019_paper.pdf)|-|2|
 |CVPR|[Toward convolutional blind denoising of real photographs](http://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_Toward_Convolutional_Blind_Denoising_of_Real_Photographs_CVPR_2019_paper.pdf)|[Matlab](https://github.com/GuoShi28/CBDNet)|139|
