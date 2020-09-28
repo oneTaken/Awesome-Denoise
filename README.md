@@ -68,6 +68,7 @@
 |ICCV|[CIIDefence: Defeating Adversarial Attacks by Fusing Class-Specific Image Inpainting and Image Denoising](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gupta_CIIDefence_Defeating_Adversarial_Attacks_by_Fusing_Class-Specific_Image_Inpainting_and_ICCV_2019_paper.pdf)|-|6|
 |ICCV|[Real Image Denoising with Feature Attention](https://arxiv.org/pdf/1904.07396.pdf)|-|46|
 |CVPRW|[GRDN:Grouped Residual Dense Network for Real Image Denoising and GAN-based Real-world Noise Modeling](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Kim_GRDNGrouped_Residual_Dense_Network_for_Real_Image_Denoising_and_GAN-Based_CVPRW_2019_paper.pdf)|-|25|
+|CVPRW|[Learning raw image denoising with bayer pattern unification and bayer preserving augmentation](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Liu_Learning_Raw_Image_Denoising_With_Bayer_Pattern_Unification_and_Bayer_CVPRW_2019_paper.pdf)|-|15|
 |CVPRW|[Deep iterative down-up CNN for image denoising](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Yu_Deep_Iterative_Down-Up_CNN_for_Image_Denoising_CVPRW_2019_paper.pdf)|-|18|
 |CVPRW|[Densely Connected Hierarchical Network for Image Denoising](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Park_Densely_Connected_Hierarchical_Network_for_Image_Denoising_CVPRW_2019_paper.pdf)|-|16|
 |CVPRW|[ViDeNN: Deep Blind Video Denoising](http://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Claus_ViDeNN_Deep_Blind_Video_Denoising_CVPRW_2019_paper.pdf)|-|10|
