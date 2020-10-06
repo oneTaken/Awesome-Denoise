@@ -1,10 +1,29 @@
-# Awesome-Denoise
+# Awesome-Denoise 
+
+There are three main factors to divide these papers into different catrgories to have a better idea.  
+
+* Color Space
+  * sRGB
+  * Raw
+  * R&S(Raw & sRGB)
+
+* Image Kind
+  * Image
+  * Burst
+  * Video
+  * I&V(Image & Video)
+
+* Noise Model  
+  * AWGN(Add White Gaussian Noise model)  
+  * PG(Posion Gaussian noise model)  
+  * GAN(Gan based noise model) 
+  * Real(camera or dlsr devices real noise model)
 
 ## 2020
 
-|Pub|Title|Code|Cite|
-|:---:|:---:|:---:|:---:|
-|TIP|Blind universal Bayesian image denoising with Gaus- sian noise level learning|-|8|
+|Pub|Title|Color|Image|Noise|Code|Cite|
+|:---:|:---:|:---:|:---:|:----:|:----:|:-----:|
+|TIP|Blind universal Bayesian image denoising with Gaussian noise level learning|-|8|
 |TIP|[Learning Deformable Kernels for Image and Video Denoising](https://arxiv.org/pdf/1904.06903.pdf)|-|6|
 |TIP|Learning Spatial and Spatio-Temporal Pixel Aggregations for Image and Video Denoising|-|0|
 |TIP|[Deep Graph-Convolutional Image Denoising](https://arxiv.org/pdf/1907.08448.pdf)|-|10|
@@ -13,7 +32,7 @@
 |TIP|[Connecting Image Denoising and High-Level Vision Tasks via Deep Learning](https://arxiv.org/pdf/1809.01826.pdf)|-|16|
 |CVPR|[Memory-Efficient Hierarchical Neural Architecture Search for Image Denoising](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Memory-Efficient_Hierarchical_Neural_Architecture_Search_for_Image_Denoising_CVPR_2020_paper.pdf)|-|3|
 |CVPR|[A Physics-based Noise Formation Model for Extreme Low-light Raw Denoising](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_A_Physics-Based_Noise_Formation_Model_for_Extreme_Low-Light_Raw_Denoising_CVPR_2020_paper.pdf)|[Pytorch](https://github.com/Vandermode/ELD)|1|
-|CVPR|[Supervised Raw Video Denoising With a Benchmark Dataset on Dynamic Scenes](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yue_Supervised_Raw_Video_Denoising_With_a_Benchmark_Dataset_on_Dynamic_CVPR_2020_paper.pdf)|[Pytorch](https://github.com/cao-cong/RViDeNet)|1|
+|CVPR|[Supervised Raw Video Denoising With a Benchmark Dataset on Dynamic Scenes](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yue_Supervised_Raw_Video_Denoising_With_a_Benchmark_Dataset_on_Dynamic_CVPR_2020_paper.pdf)|R&S|Video|Real|[Pytorch](https://github.com/cao-cong/RViDeNet)|1|
 |CVPR|[Transfer Learning From Synthetic to Real-Noise Denoising With Adaptive Instance Normalization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Transfer_Learning_From_Synthetic_to_Real-Noise_Denoising_With_Adaptive_Instance_CVPR_2020_paper.pdf)|-|1|
 |CVPR|[Self2Self With Dropout: Learning Self-Supervised Denoising From Single Image](https://openaccess.thecvf.com/content_CVPR_2020/papers/Quan_Self2Self_With_Dropout_Learning_Self-Supervised_Denoising_From_Single_Image_CVPR_2020_paper.pdf)|-|3|
 |CVPR|[Noisier2Noise: Learning to Denoise From Unpaired Noisy Data](https://openaccess.thecvf.com/content_CVPR_2020/papers/Moran_Noisier2Noise_Learning_to_Denoise_From_Unpaired_Noisy_Data_CVPR_2020_paper.pdf)|-|3|
@@ -81,7 +100,7 @@
 |arxiv|[When AWGN-based Denoiser Meets Real Noises](https://arxiv.org/pdf/1904.03485.pdf)|[Pytorch](https://github.com/yzhouas/PD-Denoising-pytorch)|10|
 |arxiv|[Generating training data for denoising real rgb images via camera pipeline simulation](https://arxiv.org/pdf/1904.08825.pdf)|-|7|
 |arxiv|[Learning Deformable Kernels for Image and Video Denoising](https://arxiv.org/pdf/1904.06903.pdf)|-|6|
-|arxiv|[Gan2gan: Generative noise learning for blind image denoising with sin- gle noisy images](https://arxiv.org/pdf/1905.10488.pdf)|-|5|
+|arxiv|[Gan2gan: Generative noise learning for blind image denoising with single noisy images](https://arxiv.org/pdf/1905.10488.pdf)|-|5|
 
 ## 2018  
 
