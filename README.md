@@ -1,23 +1,28 @@
 # Awesome-Denoise 
 
 There are three main factors to divide these papers into different catrgories to have a better idea.  
+Sometimes raw domain denoising papers would use some ISP to convert to sRGB domain, So use Both to cover this situation.  
+Sometimes video denoising papers degrade to burst denoising, even single image denoising, always use Video tag to cover this situation.  
 
 * Color Space
   * sRGB
   * Raw
-  * R&S(Raw & sRGB)
+  * Both
 
 * Image Kind
-  * Image
+  * Single
   * Burst
   * Video
-  * I&V(Image & Video)
 
 * Noise Model  
-  * AWGN(Add White Gaussian Noise model)  
+  * AWGN(Additive White Gaussian Noise model)  
   * PG(Posion Gaussian noise model)  
   * GAN(Gan based noise model) 
   * Real(camera or dlsr devices real noise model)
+  * Prior
+    * Low Rank
+    * Sparsity
+    * self similarity
 
 ## 2020
 
@@ -32,7 +37,7 @@ There are three main factors to divide these papers into different catrgories to
 |TIP|[Connecting Image Denoising and High-Level Vision Tasks via Deep Learning](https://arxiv.org/pdf/1809.01826.pdf)|-|16|
 |CVPR|[Memory-Efficient Hierarchical Neural Architecture Search for Image Denoising](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Memory-Efficient_Hierarchical_Neural_Architecture_Search_for_Image_Denoising_CVPR_2020_paper.pdf)|-|3|
 |CVPR|[A Physics-based Noise Formation Model for Extreme Low-light Raw Denoising](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_A_Physics-Based_Noise_Formation_Model_for_Extreme_Low-Light_Raw_Denoising_CVPR_2020_paper.pdf)|[Pytorch](https://github.com/Vandermode/ELD)|1|
-|CVPR|[Supervised Raw Video Denoising With a Benchmark Dataset on Dynamic Scenes](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yue_Supervised_Raw_Video_Denoising_With_a_Benchmark_Dataset_on_Dynamic_CVPR_2020_paper.pdf)|R&S|Video|Real|[Pytorch](https://github.com/cao-cong/RViDeNet)|1|
+|CVPR|[Supervised Raw Video Denoising With a Benchmark Dataset on Dynamic Scenes](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yue_Supervised_Raw_Video_Denoising_With_a_Benchmark_Dataset_on_Dynamic_CVPR_2020_paper.pdf)|Both|Video|Real|[Pytorch](https://github.com/cao-cong/RViDeNet)|1|
 |CVPR|[Transfer Learning From Synthetic to Real-Noise Denoising With Adaptive Instance Normalization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Transfer_Learning_From_Synthetic_to_Real-Noise_Denoising_With_Adaptive_Instance_CVPR_2020_paper.pdf)|-|1|
 |CVPR|[Self2Self With Dropout: Learning Self-Supervised Denoising From Single Image](https://openaccess.thecvf.com/content_CVPR_2020/papers/Quan_Self2Self_With_Dropout_Learning_Self-Supervised_Denoising_From_Single_Image_CVPR_2020_paper.pdf)|-|3|
 |CVPR|[Noisier2Noise: Learning to Denoise From Unpaired Noisy Data](https://openaccess.thecvf.com/content_CVPR_2020/papers/Moran_Noisier2Noise_Learning_to_Denoise_From_Unpaired_Noisy_Data_CVPR_2020_paper.pdf)|-|3|
@@ -47,7 +52,7 @@ There are three main factors to divide these papers into different catrgories to
 |ECCV|[Unpaired Learning of Deep Image Denoising](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490341.pdf)|[Pytorch](https://github.com/XHWXD/DBSN)|0|
 |ECCV|[Dual Adversarial Network: Toward Real-world Noise Removal and Noise Generation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550035.pdf)|[Pytorch](https://github.com/zsyOAOA/DANet)|1|
 |ECCV|[Learning Camera-Aware Noise Models](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690341.pdf)|[Pytorch](https://github.com/arcchang1236/CA-NoiseGAN)|0|
-|ECCV|[Practical Deep Raw Image Denoising on Mobile Devices](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510001.pdf)|-|0|
+|ECCV|[Practical Deep Raw Image Denoising on Mobile Devices](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510001.pdf)|Raw|Single|PG|-|0|
 |ECCV|[Reconstructing the Noise Manifold for Image Denoising](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540596.pdf)|-|0|
 |NN|[Deep Learning on Image Denoising : An Overview](https://arxiv.org/pdf/1912.13171.pdf)|-|19|
 |WACV|[Identifying recurring patterns with deep neural networks for natural image denoising](http://openaccess.thecvf.com/content_WACV_2020/papers/Xia_Identifying_Recurring_Patterns_with_Deep_Neural_Networks_for_Natural_Image_WACV_2020_paper.pdf)|-|3|
