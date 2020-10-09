@@ -200,6 +200,7 @@ Sometimes video denoising papers degrade to burst denoising, even single image d
 |2016|ICASSP|Fast depth image denoising and enhancement using a deep convolutional network|-|41|
 |2015|TIP|Image-specific prior adaptation for denoising|-|16|
 |2015|IPOL|[The noise clinic: a blind image denoising algorithm](http://www.ipol.im/pub/art/2015/125/article_lr.pdf)|-|76|
+|2014|TIP|Practical signal-dependent noise parameter estimation from a single noisy image|-|55|
 |2012|CVPR|[Image denoising: Can plain neural networks compete with BM3D?](https://hcburger.com/files/neuraldenoising.pdf)|-|911|
 |2008|TIP|[Practical Poissonian-Gaussian noise modeling and fitting for single-image raw-data](https://core.ac.uk/download/pdf/194121585.pdf)|[Matlab]()|552|
 |2007|TIP|[Image denoising by sparse 3-D transform-domain collaborative filtering](http://web.eecs.utk.edu/~hqi/ece692/references/noise-BM3D-tip07.pdf)|-|6029|
