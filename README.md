@@ -202,6 +202,7 @@ Sometimes video denoising papers degrade to burst denoising, even single image d
 |2015|IPOL|[The noise clinic: a blind image denoising algorithm](http://www.ipol.im/pub/art/2015/125/article_lr.pdf)|-|76|
 |2014|TIP|Practical signal-dependent noise parameter estimation from a single noisy image|-|55|
 |2012|CVPR|[Image denoising: Can plain neural networks compete with BM3D?](https://hcburger.com/files/neuraldenoising.pdf)|-|911|
+|2009|SP|[Clipped noisy images: Heteroskedastic modeling and practical denoising](https://www.researchgate.net/profile/Alessandro_Foi/publication/220227880_Clipped_noisy_images_Heteroskedastic_modeling_and_practical_denoising/links/5b7d594c299bf1d5a71c4b11/Clipped-noisy-images-Heteroskedastic-modeling-and-practical-denoising.pdf)|-|113|
 |2008|TIP|[Practical Poissonian-Gaussian noise modeling and fitting for single-image raw-data](https://core.ac.uk/download/pdf/194121585.pdf)|[Matlab]()|552|
 |2007|TIP|[Image denoising by sparse 3-D transform-domain collaborative filtering](http://web.eecs.utk.edu/~hqi/ece692/references/noise-BM3D-tip07.pdf)|-|6029|
 |2007|TPAMI|[Automatic estimation and removal of noise from a single image](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.228.3525&rep=rep1&type=pdf)|-|520|
