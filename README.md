@@ -198,6 +198,7 @@ Sometimes video denoising papers degrade to burst denoising, even single image d
 |2016|TIP|Patch-based video denoising with optical flow estimation|-|64|
 |2016|ToG|Deep joint demosaicking and denoising|-|205|
 |2016|ICASSP|Fast depth image denoising and enhancement using a deep convolutional network|-|41|
+|2015|ICCV|[An efficient statistical method for image noise level estimation](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Chen_An_Efficient_Statistical_ICCV_2015_paper.pdf)|-|103|
 |2015|TIP|Image-specific prior adaptation for denoising|-|16|
 |2015|IPOL|[The noise clinic: a blind image denoising algorithm](http://www.ipol.im/pub/art/2015/125/article_lr.pdf)|-|76|
 |2014|TIP|Practical signal-dependent noise parameter estimation from a single noisy image|-|55|
