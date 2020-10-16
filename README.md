@@ -82,7 +82,7 @@ Sometimes video denoising papers degrade to burst denoising, even single image d
 
 ## 2019  
 
-|Pub|Title|Color|Image|NoiseCode|Cite|
+|Pub|Title|Color|Image|Noise|Code|Cite|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |TIP|[Optimal combination of image denoisers](https://arxiv.org/pdf/1711.06712.pdf)|-|8|
 |TIP|[High ISO JPEG Image Denoising by Deep Fusion of Collaborative and Convolutional Filtering](https://sci-hub.se/https://ieeexplore.ieee.org/abstract/document/8684332/)|-|4|
