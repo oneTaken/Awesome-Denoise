@@ -44,6 +44,41 @@ Sometimes video denoising papers degrade to burst denoising, even single image d
 * NaM, CVPR 2016, citation 148
   * [A Holistic Approach to Cross-Channel Image Noise Modeling and its Application to Image Denoising](https://openaccess.thecvf.com/content_cvpr_2016/papers/Nam_A_Holistic_Approach_CVPR_2016_paper.pdf)|
 
+
+# self-supervised denoising
+video denoising
++ [Unsupervised deep video denoising](http://openaccess.thecvf.com/content/ICCV2021/html/Sheth_Unsupervised_Deep_Video_Denoising_ICCV_2021_paper.html)
+  + ICCV 2021, UDVD
+
+image denoising
+
+|Index|Year|Pub|Title|cite|resource|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|1|2018|ICML|[Noise2Noise: Learning image restoration without clean data](https://arxiv.org/pdf/1803.04189.pdf)|1236|
+|2|2019|CVPR|[Noise2void-learning denoising from single noisy images](http://openaccess.thecvf.com/content_CVPR_2019/html/Krull_Noise2Void_-_Learning_Denoising_From_Single_Noisy_Images_CVPR_2019_paper.html)|748|
+|3|2019|ICML|[Noise2self: Blind denoising by self-supervision](http://proceedings.mlr.press/v97/batson19a.html)|441|
+|4|2019|NeurIPS|[High-quality self-supervised deep image denoising](https://proceedings.neurips.cc/paper/8920-high-quality-self-supervised-deep-image-denoising)|247|
+|5|2019|arxiv|[Unsupervised image noise modeling with self-consistent GAN](https://arxiv.org/pdf/1906.05762.pdf)|13|
+|6|2020|Frontiers in Computer Science|[Probabilistic noise2void: Unsupervised content-aware denoising](https://www.frontiersin.org/articles/10.3389/fcomp.2020.00005/full)|119|
+|7|2020|TIP|[Noisy-as-clean: Learning self-supervised denoising from corrupted image](https://arxiv.org/pdf/1906.06878.pdf)|112|
+|8|2020|CVPR|[Self2self with dropout: Learning self-supervised denoising from single image](http://openaccess.thecvf.com/content_CVPR_2020/html/Quan_Self2Self_With_Dropout_Learning_Self-Supervised_Denoising_From_Single_Image_CVPR_2020_paper.html)|201|
+|9|2020|CVPR|[Noisier2noise: Learning to denoise from unpaired noisy data](http://openaccess.thecvf.com/content_CVPR_2020/html/Moran_Noisier2Noise_Learning_to_Denoise_From_Unpaired_Noisy_Data_CVPR_2020_paper.html)|125|
+|10|2020|NeurIPS|[Noise2Same: Optimizing a self-supervised bound for image denoising](https://proceedings.neurips.cc/paper/2020/hash/ea6b2efbdd4255a9f1b3bbc6399b58f4-Abstract.html)|57|
+|11|2021|NeurIPS|[Noise2score: tweedie's approach to self-supervised image denoising without clean images](https://proceedings.neurips.cc/paper/2021/hash/077b83af57538aa183971a2fe0971ec1-Abstract.html)|32|
+|12|2021|CVPR|[Neighbor2neighbor: Self-supervised denoising from single noisy images](http://openaccess.thecvf.com/content/CVPR2021/html/Huang_Neighbor2Neighbor_Self-Supervised_Denoising_From_Single_Noisy_Images_CVPR_2021_paper.html)|135|
+|13|2021|CVPR|[Recorrupted-to-recorrupted: unsupervised deep learning for image denoising](http://openaccess.thecvf.com/content/CVPR2021/html/Pang_Recorrupted-to-Recorrupted_Unsupervised_Deep_Learning_for_Image_Denoising_CVPR_2021_paper.html)|85|
+|14|2022|TIP|Neighbor2Neighbor: A Self-Supervised Framework for Deep Image Denoising|7|
+|15|2022|CVPR|[Ap-bsn: Self-supervised denoising for real-world images via asymmetric pd and blind-spot network](http://openaccess.thecvf.com/content/CVPR2022/html/Lee_AP-BSN_Self-Supervised_Denoising_for_Real-World_Images_via_Asymmetric_PD_and_CVPR_2022_paper.html)|27|
+|16|2022|CVPR|[CVF-SID: Cyclic multi-variate function for self-supervised image denoising by disentangling noise from image](http://openaccess.thecvf.com/content/CVPR2022/html/Neshatavar_CVF-SID_Cyclic_Multi-Variate_Function_for_Self-Supervised_Image_Denoising_by_Disentangling_CVPR_2022_paper.html)|20|
+|17|2022|CVPR|[Self-supervised deep image restoration via adaptive stochastic gradient langevin dynamics](http://openaccess.thecvf.com/content/CVPR2022/html/Wang_Self-Supervised_Deep_Image_Restoration_via_Adaptive_Stochastic_Gradient_Langevin_Dynamics_CVPR_2022_paper.html)|7|
+|18|2022|CVPR|[Noise distribution adaptive self-supervised image denoising using tweedie distribution and score matching](http://openaccess.thecvf.com/content/CVPR2022/html/Kim_Noise_Distribution_Adaptive_Self-Supervised_Image_Denoising_Using_Tweedie_Distribution_and_CVPR_2022_paper.html)|5|
+|19|2022|CVPR|[Blind2unblind: Self-supervised image denoising with visible blind spots](http://openaccess.thecvf.com/content/CVPR2022/html/Wang_Blind2Unblind_Self-Supervised_Image_Denoising_With_Visible_Blind_Spots_CVPR_2022_paper.html)|29|
+|20|2022|CVPR|[Idr: Self-supervised image denoising via iterative data refinement](http://openaccess.thecvf.com/content/CVPR2022/html/Zhang_IDR_Self-Supervised_Image_Denoising_via_Iterative_Data_Refinement_CVPR_2022_paper.html)|22|
+|21|2023|CVPR|[Spatially Adaptive Self-Supervised Learning for Real-World Image Denoising](http://openaccess.thecvf.com/content/CVPR2023/html/Li_Spatially_Adaptive_Self-Supervised_Learning_for_Real-World_Image_Denoising_CVPR_2023_paper.html)|1|
+|22|2023|CVPR|[LG-BPN: Local and Global Blind-Patch Network for Self-Supervised Real-World Denoising](http://openaccess.thecvf.com/content/CVPR2023/html/Wang_LG-BPN_Local_and_Global_Blind-Patch_Network_for_Self-Supervised_Real-World_Denoising_CVPR_2023_paper.html)|0|
+|23|2023|CVPR|[Zero-Shot Noise2Noise: Efficient Image Denoising Without Any Data](https://openaccess.thecvf.com/content/CVPR2023/html/Mansour_Zero-Shot_Noise2Noise_Efficient_Image_Denoising_Without_Any_Data_CVPR_2023_paper.html)|1|
+|24|2023|CVPR|[Patch-Craft Self-Supervised Training for Correlated Image Denoising](https://openaccess.thecvf.com/content/CVPR2023/html/Vaksman_Patch-Craft_Self-Supervised_Training_for_Correlated_Image_Denoising_CVPR_2023_paper.html)|
+
 ## 2020
 
 |Pub|Title|Code|Cite|
