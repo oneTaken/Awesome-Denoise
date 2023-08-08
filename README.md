@@ -49,6 +49,9 @@ Sometimes video denoising papers degrade to burst denoising, even single image d
 video denoising
 + [Unsupervised deep video denoising](http://openaccess.thecvf.com/content/ICCV2021/html/Sheth_Unsupervised_Deep_Video_Denoising_ICCV_2021_paper.html)
   + ICCV 2021, UDVD
++ [Recurrent Self-Supervised Video Denoising with Denser
+Receptive Field](https://arxiv.org/pdf/2308.03608.pdf)
+  + ACM MM 2023, [code](https://github.com/Wang-XIaoDingdd/RDRF)
 
 image denoising
 
@@ -78,7 +81,10 @@ image denoising
 |22|2023|CVPR|[LG-BPN: Local and Global Blind-Patch Network for Self-Supervised Real-World Denoising](http://openaccess.thecvf.com/content/CVPR2023/html/Wang_LG-BPN_Local_and_Global_Blind-Patch_Network_for_Self-Supervised_Real-World_Denoising_CVPR_2023_paper.html)|0|
 |23|2023|CVPR|[Zero-Shot Noise2Noise: Efficient Image Denoising Without Any Data](https://openaccess.thecvf.com/content/CVPR2023/html/Mansour_Zero-Shot_Noise2Noise_Efficient_Image_Denoising_Without_Any_Data_CVPR_2023_paper.html)|1|
 |24|2023|CVPR|[Patch-Craft Self-Supervised Training for Correlated Image Denoising](https://openaccess.thecvf.com/content/CVPR2023/html/Vaksman_Patch-Craft_Self-Supervised_Training_for_Correlated_Image_Denoising_CVPR_2023_paper.html)|
+|25|2023|arxiv|[Unleashing the Power of Self-Supervised Image Denoising: A Comprehensive Review](https://arxiv.org/pdf/2308.00247.pdf)|
+|26|2023|ICCV|[Random Sub-Samples Generation for Self-Supervised Real Image Denoising](https://arxiv.org/pdf/2307.16825.pdf)
 
+# by year
 ## 2020
 
 |Pub|Title|Code|Cite|
