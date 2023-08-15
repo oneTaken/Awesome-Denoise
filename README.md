@@ -55,8 +55,8 @@ Receptive Field](https://arxiv.org/pdf/2308.03608.pdf)
 
 image denoising
 
-|Index|Year|Pub|Title|cite|resource|
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|Index|Year|Pub|Title|cite|
+|:---:|:---:|:---:|:---:|:---:|
 |1|2018|ICML|[Noise2Noise: Learning image restoration without clean data](https://arxiv.org/pdf/1803.04189.pdf)|1236|
 |2|2019|CVPR|[Noise2void-learning denoising from single noisy images](http://openaccess.thecvf.com/content_CVPR_2019/html/Krull_Noise2Void_-_Learning_Denoising_From_Single_Noisy_Images_CVPR_2019_paper.html)|748|
 |3|2019|ICML|[Noise2self: Blind denoising by self-supervision](http://proceedings.mlr.press/v97/batson19a.html)|441|
@@ -84,6 +84,7 @@ image denoising
 |25|2023|arxiv|[Unleashing the Power of Self-Supervised Image Denoising: A Comprehensive Review](https://arxiv.org/pdf/2308.00247.pdf)|
 |26|2023|ICCV|[Random Sub-Samples Generation for Self-Supervised Real Image Denoising](https://arxiv.org/pdf/2307.16825.pdf)|
 |27|2023|ICCV|[Score Priors Guided Deep Variational Inference for Unsupervised Real-World Single Image Denoising](https://arxiv.org/pdf/2308.04682.pdf)|
+|28|2023|ICCV|[Unsupervised Image Denoising in Real-World Scenarios via Self-Collaboration Parallel Generative Adversarial Branches](https://arxiv.org/pdf/2308.06776.pdf)|
 
 # by year
 ## 2020
